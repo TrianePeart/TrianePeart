@@ -24,6 +24,9 @@ JavaScript, CSS, HTML, NODE
 
 <hr>
 
+### For Fun Projects
+* [MineSweeper](https://github.com/TrianePeart/MineSweeper)
+
 ### Connect With Me 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/trianepeart/) [![GitHub Badge](https://img.shields.io/github/followers/TrianePeart?label=Follow%20%40TrianePeart&style=social)](https://github.com/TrianePeart) [![Codewars Badge](https://www.codewars.com/users/TheDemi-GirlHasNoName/badges/small)](https://www.codewars.com/users/TheDemi-GirlHasNoName)
