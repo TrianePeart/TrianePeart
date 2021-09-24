@@ -22,10 +22,12 @@ JavaScript, CSS, HTML, NODE
 * [Myspace MockUp](https://github.com/TrianePeart/8-0-css-grid-lab)
 * [Dinosaur Museum](https://github.com/TrianePeart/8-0-dinosaur-museum-project)
 
-<hr>
 
 ### For Fun Projects
 * [MineSweeper](https://github.com/TrianePeart/MineSweeper)
+
+<hr>
+
 
 ### Connect With Me 
 
