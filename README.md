@@ -8,7 +8,7 @@ Where most people see a jumbled mess, I see something interesting for me to craf
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trianepeart&label=Profile%20views&color=0e75b6&style=flat" alt="trianepeart" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trianepeart" alt="trianepeart" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trianepeart-ma&margin-w=15" alt="trianepeart" /></a> </p>
 
 ### Interest 
 
