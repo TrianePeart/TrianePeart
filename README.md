@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏽, I'm Triane</h1>
+<h1 align="center">Hi 👋🏽 I'm Triane</h1>
 <h3 align="center">A Full Stack Engineer with a passion for art and design</h3>
 
 
