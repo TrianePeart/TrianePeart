@@ -57,9 +57,12 @@ Custom Logos - https://github.com/christina-ml?tab=repositories
 
 <hr>
 
+<div align="center">
 
 ### Vibe With Me
 
-No matter what I'm doing I love to listen to music. Click the dancing panda to Vibe out with me. 
+No matter what I'm doing, I love to listen to music. The following button is a link to my Lo-fi coding playlist on Spotify. Feel free to vibe with me.
 
-[![button](https://i.pinimg.com/originals/38/09/1c/38091ce793a5e891f00aa49b6f0898d2.gif)](https://open.spotify.com/playlist/3SYyLgpkjvvls0ojrCRWd3?si=e408f17afca14a7a)
+[![button](https://user-images.githubusercontent.com/87388431/223205016-8b443b22-50e6-4140-b4de-16e105d8b4bb.png)](https://open.spotify.com/playlist/2TnC9afNCAmyOXXfCQN9nj?si=fd6c387a59c44dbd)
+
+</div>
