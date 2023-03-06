@@ -30,11 +30,17 @@ Food, Coding, Literature, Science, Politics, Current Events, Art in that order.
 #### Pursuit Fellowship Projects:
 * [Command Line Snowman](https://github.com/TrianePeart/8-0-command-line-snowman)
 * [Myspace MockUp](https://github.com/TrianePeart/8-0-css-grid-lab)
-* [Dinosaur Museum](https://github.com/TrianePeart/8-0-dinosaur-museum-project)
+* [Dinosaur Museum](https://github.com/TrianePeart/9-0-dinosaur-museum-project)
 
 
-### For Fun Projects
+### PortFolio Projects
 * [MineSweeper](https://github.com/TrianePeart/MineSweeper)
+* [Write Tings](https://github.com/TrianePeart/triane-portfolio-front-end)
+* [First Portfolio](https://github.com/TrianePeart/TrianePortfolio-project)
+
+### Group Projects 
+*[Snack-a-log](https://github.com/TrianePeart/project-snack-a-log-frontend/tree/main)
+*[YouTube Clone](https://github.com/Shaik-Kamil/youtube-clone)
 
 <hr>
 
