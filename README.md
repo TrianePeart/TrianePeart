@@ -27,17 +27,11 @@ Food, Coding, Literature, Science, Politics, Current Events, Art in that order.
 
 <hr>
 
-#### LeetCode Solutions 
+### LeetCode Solutions 
 
 * [LeetCode Solutions](https://github.com/TrianePeart/LeetCode-JavaScript)
 
-#### Pursuit Fellowship Projects:
-* [Command Line Snowman](https://github.com/TrianePeart/8-0-command-line-snowman)
-* [Myspace MockUp](https://github.com/TrianePeart/8-0-css-grid-lab)
-* [Dinosaur Museum](https://github.com/TrianePeart/9-0-dinosaur-museum-project)
-
-
-### PortFolio Projects
+### Pursuit PortFolio Projects
 * [MineSweeper](https://github.com/TrianePeart/MineSweeper)
 * [Write Tings](https://github.com/TrianePeart/triane-portfolio-front-end)
 * [First Portfolio](https://github.com/TrianePeart/TrianePortfolio-project)
